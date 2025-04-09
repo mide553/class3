@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mide553/class3/issues"
   },
-  "homepage": "https://github.com/mide553/class3#readme"
+  "homepage": "https://github.com/mide553/class3#readme",
+  "dependencies": {
+    "@if23b040/password-utilities": "^1.0.1"
+  }
 }
